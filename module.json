@@ -3,7 +3,7 @@
   "name": "accounting-vat-api",
   "display_name": "Accounting VAT API",
   "description": "HTTP API adapter for Accounting VAT.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\VatApi\\VatApiServiceProvider",
   "requires": {
